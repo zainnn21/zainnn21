@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Zain from Indonesia<br><br>Full-Stack Developer with 1+ year of experience in building web applications. Currently open to opportunities and focused on full-stack development using JavaScript and React. Skilled in Java, C, C#, HTML, CSS, and Spring Boot. Passionate about writing clean, scalable code and continuously learning new technologies.</p>
+<p align="left">I'm Zain from Indonesia<br><br>Full-Stack Developer with 1+ year of experience in building web applications. Currently open to opportunities and focused on full-stack development using React and node. Skilled in Java, C, C#, HTML, CSS, and Spring Boot. Passionate about writing clean, scalable code and continuously learning new technologies.</p>
 
 ###
 
