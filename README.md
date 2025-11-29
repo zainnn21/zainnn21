@@ -1,99 +1,111 @@
-<div align="center">
-
-![header](img/github-header-image.png)
-
-</div>
+# Hi there, I'm Zain 👋
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zainnn21.zainnn21&"  />
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Backend+%26+Frontend+Enthusiast;Building+Scalable+Solutions)
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zain-id.vercel.app)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habibzain.anis@gmail.com)
+  
 </div>
 
-###
+## 🚀 About Me
+
+Detail-oriented **Full-Stack Developer** with 1+ years of experience crafting robust enterprise solutions. I specialize in building scalable web applications using modern tech stacks, with a strong foundation in backend development for the banking industry.
+
+- 🔭 Currently working as a **Freelance Full-Stack Developer**
+- 🌱 Mastering **React.js, Next.js, TypeScript, and Node.js** through intensive bootcamp training
+- 💼 Former **Backend Developer** at PT NEXT TI, developing banking applications
+- 🎓 Bachelor's Degree in Information Systems from Gunadarma University
+- 📍 Based in Jakarta, Indonesia
+- ⚡ Fun fact: I love building Discord bots
+
+## 💻 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### State Management & Validation
+![Zustand](https://img.shields.io/badge/Zustand-593D88?style=for-the-badge&logo=react&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+## 🎯 Featured Projects
+
+<details>
+<summary><b>🏢 Automated E-Requisition System</b> - Click to expand</summary>
+<br>
+
+**Full-Stack Developer** | PT Antang Gunung Meratus | *Nov 2025 - Present*
+
+A comprehensive procurement workflow digitization solution featuring:
+- 🎨 Modern UI with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**
+- 🏗️ Atomic Design methodology for scalable component architecture
+- 📊 Complex database relationships managed with **Prisma ORM** and **PostgreSQL**
+- ✅ Real-time form validation using **Zod**
+- 💼 Business-critical features: master data management, budget allocation (CAPEX/OPEX), CSV import
+
+</details>
+
+<details>
+<summary><b>🌐 Donpro Consultant Website Rebuild</b> - Click to expand</summary>
+<br>
+
+**Full-Stack Developer** | Freelance | *Nov 2025 - Present*
+
+Complete website migration and enhancement:
+- ⚡ Migrated from WordPress to **Next.js** for superior performance and SEO
+- 🔐 Full-stack Admin Dashboard with **Next.js API Routes**, **JWT**, and **Prisma**
+- 📸 Photo upload functionality for training events
+- 🎨 Server-side rendering (SSR) with responsive design
+- 🚀 Optimized development workflow using **Bun** runtime
+
+</details>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.youtube.com/@RaptorG9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/zain.ats/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainnn21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainnn21&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainnn21&theme=tokyonight&hide_border=true)
+  
 </div>
 
-###
+## 📫 Let's Connect!
 
-<h3 align="left">👩‍💻  About Me</h3>
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-###
+- 🌐 [Portfolio](https://zain-id.vercel.app)
+- 📧 [Email](mailto:habibzain.anis@gmail.com)
+- 📍 Jakarta, Indonesia
 
-<p align="left">I'm Zain from Jakarta<br><br>Full-Stack Developer with 1+ year of experience in building web applications. currently expanding my skill set by learning javascript, diving deep into modern web technologies. I am actively seeking a full-time role where I can leverage my existing experience and newly acquired skills in React, Node.js, and Next.js to contribute to innovative projects.</p>
-
-###
-
-<img align="right" height="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE1Z3Q3MmQ0ZzNheG1qZTRyY2phamFpbGlnZjc4cnJ0a3lta3N1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
-
-###
-
-<h3 align="left">🚀 What I'm Currently Up To</h3>
-
-###
-
-<p align="left">🧠 Deepening my knowledge in Full-Stack JavaScript (MERN Stack) <br><br>💻 Building projects using React, Node.js, and Next.js.<br><br>🌱 Exploring best practices in modern web development.<br><br>🤝 Open to collaborating on exciting open-source projects.</p>
-
-###
-
-<br clear="both">
-
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
+  
+  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=zainnn21.zainnn21&)
+  
 </div>
-
-###
-
-<h3 align="center">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainnn21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=zainnn21&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="center">Play Games</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zainnn21/zainnn21/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zainnn21/zainnn21/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zainnn21/zainnn21/output/pacman-contribution-graph.svg">
-</picture>
-
-###
