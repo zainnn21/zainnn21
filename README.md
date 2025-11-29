@@ -56,14 +56,15 @@ Detail-oriented **Full-Stack Developer** with 1+ years of experience crafting ro
 <summary><b>🏢 Automated E-Requisition System</b> - Click to expand</summary>
 <br>
 
-**Full-Stack Developer** | PT Antang Gunung Meratus | *Nov 2025 - Present*
+**Full-Stack Developer** | PT Antang Gunung Meratus | Freelace | *Nov 2025 - Present*
 
-A comprehensive procurement workflow digitization solution featuring:
-- 🎨 Modern UI with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**
-- 🏗️ Atomic Design methodology for scalable component architecture
-- 📊 Complex database relationships managed with **Prisma ORM** and **PostgreSQL**
-- ✅ Real-time form validation using **Zod**
-- 💼 Business-critical features: master data management, budget allocation (CAPEX/OPEX), CSV import
+Digitalized the company's Excel-based procurement process into a modern web application for company-wide accessibility:
+- 📋 **Transformed Excel workflows** into an intuitive web-based system accessible to all employees
+- 🏗️ Built full-stack solution with **Next.js**, **TypeScript**, **React**, and **Tailwind CSS** using Atomic Design principles
+- 💾 Designed database schema and managed complex data relationships with **Prisma ORM** and **PostgreSQL**
+- 🔄 **CSV import functionality** to migrate existing Excel data seamlessly
+- 💼 Developed core features: master data management (Stock, Catalog), budget allocation (CAPEX/OPEX)
+- 📊 Efficient global state management for multi-step forms using **Zustand**
 
 </details>
 
@@ -71,7 +72,7 @@ A comprehensive procurement workflow digitization solution featuring:
 <summary><b>🌐 Donpro Consultant Website Rebuild</b> - Click to expand</summary>
 <br>
 
-**Full-Stack Developer** | Freelance | *Nov 2025 - Present*
+**Full-Stack Developer** | Donpro Consultant | Freelance | *Nov 2025 - Present*
 
 Complete website migration and enhancement:
 - ⚡ Migrated from WordPress to **Next.js** for superior performance and SEO
