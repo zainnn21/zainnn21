@@ -34,8 +34,6 @@ Detail-oriented **Full-Stack Developer** with 1+ years of experience crafting ro
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 ### Database & Tools
@@ -47,41 +45,8 @@ Detail-oriented **Full-Stack Developer** with 1+ years of experience crafting ro
 
 ### State Management & Validation
 ![Zustand](https://img.shields.io/badge/Zustand-593D88?style=for-the-badge&logo=react&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-## 🎯 Featured Projects
-
-<details>
-<summary><b>🏢 Automated E-Requisition System</b> - Click to expand</summary>
-<br>
-
-**Full-Stack Developer** | PT Antang Gunung Meratus | Freelace | *Nov 2025 - Jan 2026*
-
-Digitalized the company's Excel-based procurement process into a modern web application for company-wide accessibility:
-- 📋 **Transformed Excel workflows** into an intuitive web-based system accessible to all employees
-- 🏗️ Built full-stack solution with **Next.js**, **TypeScript**, **React**, and **Tailwind CSS** using Atomic Design principles
-- 💾 Designed database schema and managed complex data relationships with **Prisma ORM** and **PostgreSQL**
-- 🔄 **CSV import functionality** to migrate existing Excel data seamlessly
-- 💼 Developed core features: master data management (Stock, Catalog), budget allocation (CAPEX/OPEX)
-- 📊 Efficient global state management for multi-step forms using **Zustand**
-
-</details>
-
-<details>
-<summary><b>🌐 Donpro Consultant Website Rebuild</b> - Click to expand</summary>
-<br>
-
-**Full-Stack Developer** | Donpro Consultant | Freelance | *Nov 2025 - Feb 2026*
-
-Complete website migration and enhancement:
-- ⚡ Migrated from WordPress to **Next.js** for superior performance and SEO
-- 🔐 Full-stack Admin Dashboard with **Next.js API Routes**, **JWT**, and **Prisma**
-- 📸 Photo upload functionality for training events
-- 🎨 Server-side rendering (SSR) with responsive design
-- 🚀 Optimized development workflow using **Bun** runtime
-
-</details>
 
 ## 📊 GitHub Stats
 
