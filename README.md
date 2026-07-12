@@ -99,7 +99,6 @@ Complete website migration and enhancement:
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-- 🌐 [Portfolio](https://zain-id.vercel.app)
 - 📧 [Email](mailto:habibzain.anis@gmail.com)
 - 📍 Jakarta, Indonesia
 
