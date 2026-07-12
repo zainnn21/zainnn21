@@ -56,7 +56,7 @@ Detail-oriented **Full-Stack Developer** with 1+ years of experience crafting ro
 <summary><b>🏢 Automated E-Requisition System</b> - Click to expand</summary>
 <br>
 
-**Full-Stack Developer** | PT Antang Gunung Meratus | Freelace | *Nov 2025 - Present*
+**Full-Stack Developer** | PT Antang Gunung Meratus | Freelace | *Nov 2025 - Jan 2026*
 
 Digitalized the company's Excel-based procurement process into a modern web application for company-wide accessibility:
 - 📋 **Transformed Excel workflows** into an intuitive web-based system accessible to all employees
@@ -72,7 +72,7 @@ Digitalized the company's Excel-based procurement process into a modern web appl
 <summary><b>🌐 Donpro Consultant Website Rebuild</b> - Click to expand</summary>
 <br>
 
-**Full-Stack Developer** | Donpro Consultant | Freelance | *Nov 2025 - Present*
+**Full-Stack Developer** | Donpro Consultant | Freelance | *Nov 2025 - Feb 2026*
 
 Complete website migration and enhancement:
 - ⚡ Migrated from WordPress to **Next.js** for superior performance and SEO
